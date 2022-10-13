@@ -37,22 +37,22 @@ def banner():
     os.system('clear')
     print " "
     runntxt(GL+"              Assalamu'@laikum. ^_^")
-    runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       Hacker.Rakib")
-    runntxt(GL+"                   BODO AMAT CUK")
-    runntxt(GG+"     ..........     MANDI DULU SANA")
-    runntxt(Y+"    ............       DILARANG CO*I")
-    runntxt(GG+"           INGAT COK ")
+    runntxt(WW+"   ..................  Termux King Rakib")
+    runntxt(WW+"     ....       HACKER-RAKIB")
+    runntxt(GL+"       What's apk - 01746951657")
+    runntxt(GG+"     .......... Fb-Id-Dj.Rakib.420")
+    runntxt(Y+"    ............ My Love HR")
+    runntxt(GG+"          It's Rakib Ok ")
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
     print WW+"  |            MOD BY: HACKER RAKIB             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
+    print GL+"  |      .   Tearmux Kink Rakib                 |"
     print WW+"  |        TEAM : DJ-420-VOICE&HACKER-BOX       |"
-    print Y+"  |             INSTAGRAM: DJ-RAKIB-MIX            |"
+    print Y+"   |          INSTAGRAM: DJ-RAKIB-MIX            |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
+    print GL+"  |        LIFE OF PROGRAMMER [ B.R.H ]         |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
     print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
@@ -60,7 +60,7 @@ def banner():
 
 banner()
 
-print wd+"         gunakan dengan bijak cok "
+print wd+"            HAKING BY RAKIB "
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
